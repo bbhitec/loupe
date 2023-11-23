@@ -4,7 +4,7 @@ Building a full-fledged Saas platform with front end libraries, service proposit
 ## WIP
 - [ ] trpc dependencies
 - [ ] document prisma
-[here] video timestamp: 2h:15:00
+[here] video timestamp: 2h:29:00
 
 
 ## Stack

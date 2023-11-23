@@ -1,5 +1,7 @@
 import { PrismaClient } from '@prisma/client'
 
+// this code woll make sure we have a single cache instance throughout the app
+
 declare global {
     // eslint-disable-next-line no-var
     var cachedPrisma: PrismaClient
