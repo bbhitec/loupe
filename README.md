@@ -12,6 +12,8 @@ Building a full-fledged Saas platform with front end libraries, service proposit
 - [ ] Tailwind CSS
 - shadcn
 - kinde
+- tRPC typed API
+- prisma with planetscape
 
 
 ## Install
