@@ -21,7 +21,8 @@ export const appRouter = router({
         if (!user?.id || !user.email)
             throw new TRPCError({ code: 'UNAUTHORIZED'})
 
-        // [todo] check if the user is in the database
+        // using prisma and planetscale to check if the user is in the database
+        // const dbUser = await db.user [here]
 
         return { success: true }
     })
