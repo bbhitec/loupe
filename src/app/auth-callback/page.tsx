@@ -17,7 +17,7 @@ const Page = () => {
     // [todo] onSuccess/onError is deprecated?
     //
     // [demo] we dont name this function since it runs of page load
-    //       i.e. no use of:  const { data, isLoading } = 
+    //       i.e. no use of:  const { data, isLoading } =
     trpc.authCallback.useQuery(undefined, {
         onSuccess: ({ success }) => {
             if (success) {

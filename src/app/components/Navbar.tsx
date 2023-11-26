@@ -14,7 +14,7 @@ const Navbar = () => {
           <Link
             href='/'
             className='flex z-40 font-semibold'>
-            <span>louped.</span>
+            <span>loupe.</span>
           </Link>
           <div className='hidden items-center space-x-4 sm:flex'>
             <>

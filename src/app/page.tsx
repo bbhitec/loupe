@@ -13,14 +13,14 @@ export default function Home() {
        px-7 py-2 shadow-md backdrop-blur transition-all hover:border-gray-300
        hover:bg-white/50'>
           <p className='text-sm font-semibold text-gray-700'>
-            You have been Louped!
+            Get into the loop!
           </p>
         </div>
         <h1 className='max-w-4xl text-5xl font-bold md:text-6xl lg:text-7xl'>
           The PDF is too long?<br /> Why not <span className='text-blue-600'>chat</span> with it?!
         </h1>
         <p className='mt-5 max-w-prose text-zinc-700 sm: text-lg'>
-          'Louped' lets you chat with your documents as if they are a real person! <br /> Just drop your PDF in and ask away!
+          'Loupe' lets you chat with your documents as if they are a real person! <br /> Just drop your PDF in and ask away!
         </p>
 
         <Link className={buttonVariants({
@@ -95,7 +95,7 @@ export default function Home() {
               Start chatting in minutes
             </h2>
             <p className='mt-4 text-lg text-gray-600'>
-              Chatting to your PDF files has never been easier than with Louped
+              Chatting to your PDF files has never been easier than with Loupe
             </p>
           </div>
         </div>
@@ -123,7 +123,7 @@ export default function Home() {
               <span className='text-sm font-medium text-blue-500'>STEP 2</span>
               <span className='text-xl font-semibold'>Upload your PDF</span>
               <span className='mt-2 text-zinc-700'>
-                Louped will process your file and make it chattable!
+                Loupe will process your file and make it chattable!
               </span>
             </div>
           </li>
@@ -133,7 +133,7 @@ export default function Home() {
               <span className='text-sm font-medium text-blue-500'>STEP 3</span>
               <span className='text-xl font-semibold'>Ask away!</span>
               <span className='mt-2 text-zinc-700'>
-                Yes, it&apos;s that simple! Let Louped turn your documents into teachers
+                Yes, it&apos;s that simple! Let Loupe turn your documents into teachers
               </span>
             </div>
           </li>

@@ -4,6 +4,9 @@ Building a full-fledged Saas platform with front end libraries, service proposit
 ## WIP
 - [ ] trpc dependencies
 - [ ] document prisma
+- [ ] troubleshoot prisma studio thing to see the user appearing
+
+
 [here] video timestamp: 2h:29:00
 
 
