@@ -2,15 +2,16 @@
 Building a full-fledged Saas platform with front end libraries, service proposition, user authentication and pricing provider
 
 ## WIP
+- [ ] [here] video timestamp: 2h:29:00
 - [ ] trpc dependencies
 - [ ] document prisma
 - [ ] troubleshoot prisma studio thing to see the user appearing
+- [ ] authentications finalize
 
 
-[here] video timestamp: 2h:29:00
 
 
-## Stack
+## Tech Stack
 - TypeScript
 - React.js
 - Next.js
@@ -22,7 +23,4 @@ Building a full-fledged Saas platform with front end libraries, service proposit
 
 
 ## Install
-
-
-## Credits
-Based on tons of coffee, and the great tutorial by [JoshTredCoding](https://youtu.be/ucX2zXAZ1I0)
+Pull the repo and run with `npm run dev`
